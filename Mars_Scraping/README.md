@@ -7,11 +7,15 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 
 ## Three Deliverables
 Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
+
 [Mission_to_Mars_Challenge.ipynb](https://github.com/timbialek/Mission_to_Mars/blob/main/Mars_Scraping/Mission_to_Mars_Challenge.ipynb)
 
 Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
+
 [Scraping.py](https://github.com/timbialek/Mission_to_Mars/blob/main/Mars_Scraping/scraping.py)
+
 Deliverable 3: Add Bootstrap 3 Components
+
 [index.html](https://github.com/timbialek/Mission_to_Mars/blob/main/Mars_Scraping/templates/index.html)
 
 ## Results
